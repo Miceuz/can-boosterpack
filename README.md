@@ -9,6 +9,7 @@ canbus_boosterpack-iso1050 is an isolated CAN bus interface based on ISO1050. It
 
 These designs are developed with DIY PCB manufactiring in head - they can be produced by standard toner transfer technique for doublesided boards.
 
-
+![boosterpacks](img/boosterpacks2.jpg)
+![iso1050](img/can-boosterpack-iso1050.jpg)
 
 A simple CAN bus sniffer firmware developement is in underway.
